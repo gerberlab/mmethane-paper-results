@@ -1,0 +1,15 @@
+cff-version: 0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dawkins"
+  given-names: "Jennifer"
+  orcid: "https://orcid.org/0009-0002-6081-3380"
+- family-names: "Gerber"
+  given-names: "Georg"
+  orcid: "
+https://orcid.org/0000-0002-9149-5509"
+title: "MMETHANE Paper Results"
+version: 0.0
+doi: 10.5281/zenodo.14058419
+date-released: 2024-11-10
+url: "https://github.com/gerberlab/mmethane-paper-results"
