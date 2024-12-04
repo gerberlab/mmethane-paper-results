@@ -1,3 +1,5 @@
-/utilities
+utilities/
 logs*
-/rmdirs
+rmdirs.py
+figures/
+figdata/

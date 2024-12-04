@@ -1,3 +1,1 @@
-# 1. Download repo 
-# 2. cd logs
-# 3. unzip folders
+To replicate paper results, clone this github repository, download "logs.zip" from Zenodo (0.5281/zenodo.14064000), and place "logs.zip" into "mmethane_paper_results". Unzip "logs.zip", and then use any of the notebooks to replicate results.
